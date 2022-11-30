@@ -15,6 +15,6 @@
    * [[입출력과 사칙연산, 조건문] 2480_주사위 세개](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4/B4_2480_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)
    * [[반복문, 1차원 배열] 15552_빠른 A+B](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4/B4_15552_%EB%B9%A0%EB%A5%B8%20A%2BB.py)
  * Bronze3
-   * [[입출력과 사칙연산, 조건문] 2525_오븐 시계]()
+   * [[입출력과 사칙연산, 조건문] 2525_오븐 시계](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B3/B3_2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84.py)
  * Bronze2
    * [[반복문, 1차원 배열] 8958_OX 퀴즈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_8958_OX%ED%80%B4%EC%A6%88.py)
