@@ -9,7 +9,7 @@
   * [[입출력과 사칙연산, 조건문] 3003_BIJELE](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5_3003_BIJELE.py)
   * [[입출력과 사칙연산, 조건문] 2557_Hello World!](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5_2557_Hello%20World.py)
   * [[입출력과 사칙연산, 조건문] 2558_A+B -2](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5_2558_A%2BB%20-2.py)
-  * [반복문, 1차원 배열] 25304_영수증](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5_25304_%EC%98%81%EC%88%98%EC%A6%9D.py)
+  * [[반복문, 1차원 배열] 25304_영수증](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5_25304_%EC%98%81%EC%88%98%EC%A6%9D.py)
  * Bronze4
    * [[입출력과 사칙연산, 조건문] 2480_주사위 세개](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4_2480_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)
  * Bronze3
