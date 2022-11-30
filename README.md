@@ -10,6 +10,6 @@
   * [[입출력과 사칙연산, 조건문] 2557_Hello World!](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5_2557_Hello%20World.py)
   * [[입출력과 사칙연산, 조건문] 2558_A+B -2](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5_2558_A%2BB%20-2.py)
  * Bronze4
-   * [[입출력과 사칙연산, 조건문] 2480_주사위 세개]()
+   * [[입출력과 사칙연산, 조건문] 2480_주사위 세개](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4_2480_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)
  * Bronze3
    * [[입출력과 사칙연산, 조건문] 2525_오븐 시계]()
