@@ -19,3 +19,8 @@
  * Bronze2
    * [[반복문, 1차원 배열] 8958_OX 퀴즈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_8958_OX%ED%80%B4%EC%A6%88.py)
    * [[2차원 배열, 정렬] 2750_수 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+
+
+ * Sliver5
+   * [[2차원 배열, 정렬] 1181_단어 정렬](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1181_%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)
+   * [[2차원 배열, 정렬] 2563_색종이]()
