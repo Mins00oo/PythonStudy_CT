@@ -20,6 +20,7 @@
  * Bronze2
    * [[반복문, 1차원 배열] 8958_OX 퀴즈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_8958_OX%ED%80%B4%EC%A6%88.py)
    * [[2차원 배열, 정렬] 2750_수 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+   * [[재귀] 25501_재귀의 귀재](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_25501_%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC.py)
 
 
  * Sliver5
