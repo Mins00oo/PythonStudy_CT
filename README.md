@@ -31,3 +31,4 @@
  * Sliver5
    * [[2차원 배열, 정렬] 1181_단어 정렬](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1181_%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)
    * [[2차원 배열, 정렬] 2563_색종이](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_2563_%EC%83%89%EC%A2%85%EC%9D%B4.py)
+   * [[2차원 배열, 정렬] 11650_좌표 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_11650_%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
