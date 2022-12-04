@@ -15,6 +15,7 @@
  * Bronze4
    * [[입출력과 사칙연산, 조건문] 2480_주사위 세개](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4/B4_2480_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)
    * [[반복문, 1차원 배열] 15552_빠른 A+B](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4/B4_15552_%EB%B9%A0%EB%A5%B8%20A%2BB.py)
+   * [[반복문, 1차원 배열] 2439_별 찍기-2](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4/B4_2439_%EB%B3%84%20%EC%B0%8D%EA%B8%B0-2.py)
  * Bronze3
    * [[입출력과 사칙연산, 조건문] 2525_오븐 시계](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B3/B3_2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84.py)
    * [[그리디 알고리즘] 14720_우유 축제](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B3/B3_14720_%EC%9A%B0%EC%9C%A0%20%EC%B6%95%EC%A0%9C.py)
