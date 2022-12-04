@@ -17,6 +17,7 @@
    * [[반복문, 1차원 배열] 15552_빠른 A+B](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B4/B4_15552_%EB%B9%A0%EB%A5%B8%20A%2BB.py)
  * Bronze3
    * [[입출력과 사칙연산, 조건문] 2525_오븐 시계](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B3/B3_2525_%EC%98%A4%EB%B8%90%EC%8B%9C%EA%B3%84.py)
+   * [[그리디 알고리즘] 14720_우유 축제](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B3/B3_14720_%EC%9A%B0%EC%9C%A0%20%EC%B6%95%EC%A0%9C.py)
  * Bronze2
    * [[반복문, 1차원 배열] 8958_OX 퀴즈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_8958_OX%ED%80%B4%EC%A6%88.py)
    * [[2차원 배열, 정렬] 2750_수 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
