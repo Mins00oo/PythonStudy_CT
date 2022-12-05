@@ -24,6 +24,7 @@
    * [[반복문, 1차원 배열] 8958_OX 퀴즈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_8958_OX%ED%80%B4%EC%A6%88.py)
    * [[2차원 배열, 정렬] 2750_수 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
    * [[재귀] 25501_재귀의 귀재](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_25501_%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC.py)
+   * [[구현] 2675_문자열 반복](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2675_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)
  * Bronze1
    * [[반복문, 1차원 배열] 1110_더하기 사이클](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_1110_%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)
 
