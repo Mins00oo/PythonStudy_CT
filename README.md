@@ -25,6 +25,8 @@
    * [[2차원 배열, 정렬] 2750_수 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
    * [[재귀] 25501_재귀의 귀재](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_25501_%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC.py)
    * [[구현] 2675_문자열 반복](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2675_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)
+   * [[사칙연산] 3052_나머지](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_3052_%EB%82%98%EB%A8%B8%EC%A7%80.py)
+   * [[구현] 3052_음계](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2920_%EC%9D%8C%EA%B3%84.py)
  * Bronze1
    * [[반복문, 1차원 배열] 1110_더하기 사이클](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_1110_%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)
 
