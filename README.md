@@ -39,3 +39,5 @@
    * [[문자열, 정렬] 1427_소트인사이드](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1427_%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)
  * Sliver4
    * [[그리디 알고리즘, 정렬] 11399_ATM](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11399_ATM.py)
+ * Sliver3
+   * [[덱, 그리디 알고리즘] 13417_카드 문자열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_13417_%EC%B9%B4%EB%93%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
