@@ -40,5 +40,6 @@
  * Sliver4
    * [[그리디 알고리즘, 정렬] 11399_ATM](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11399_ATM.py)
    * [[그리디 알고리즘, 정렬, 수학] 10610_30](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_10610_30.py)
+   * [[그리디 알고리즘] 11047_동전 0](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11047_%EB%8F%99%EC%A0%84%200.py)
  * Sliver3
    * [[덱, 그리디 알고리즘] 13417_카드 문자열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_13417_%EC%B9%B4%EB%93%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
