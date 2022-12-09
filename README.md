@@ -30,6 +30,7 @@
    * [[구현] 3052_음계](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2920_%EC%9D%8C%EA%B3%84.py)
  * Bronze1
    * [[반복문, 1차원 배열] 1110_더하기 사이클](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_1110_%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)
+   * [[2차원 배열, 구현] 10798_세로읽기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_10798_%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0.py)
 
 
  * Sliver5
