@@ -47,3 +47,4 @@
    * [[그리디 알고리즘] 11047_동전 0](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11047_%EB%8F%99%EC%A0%84%200.py)
  * Sliver3
    * [[덱, 그리디 알고리즘] 13417_카드 문자열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_13417_%EC%B9%B4%EB%93%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
+   * [[구현, 문자열] 1347_미로만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1347_%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
