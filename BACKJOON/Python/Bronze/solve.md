@@ -2,6 +2,7 @@
 
 [브론즈](#Bronze)
 
+[실버](#Sliver)
 
 # Bronze
 
@@ -35,3 +36,29 @@
  * Bronze1
    * [[반복문, 1차원 배열] 1110_더하기 사이클](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_1110_%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)
    * [[2차원 배열, 구현] 10798_세로읽기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_10798_%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0.py)
+
+
+# Sliver
+
+ * Sliver5
+   * [[2차원 배열, 정렬] 1181_단어 정렬](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1181_%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)
+   * [[2차원 배열, 정렬] 2563_색종이](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_2563_%EC%83%89%EC%A2%85%EC%9D%B4.py)
+   * [[2차원 배열, 정렬] 11650_좌표 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_11650_%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+   * [[문자열, 정렬] 1427_소트인사이드](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1427_%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)
+   * [[그리디 알고리즘] 1439_뒤집기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1439_%EB%92%A4%EC%A7%91%EA%B8%B0.py)
+   * [[그리디 알고리즘] 14916_거스름돈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_14916_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py)
+   * [[구현, 재귀] 17478_재귀함수가 뭔가요](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_17478_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%20%EB%AD%94%EA%B0%80%EC%9A%94.py)
+   * [[구현] 18242_네모네모 시력검사](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_18242_%EB%84%A4%EB%AA%A8%EB%84%A4%EB%AA%A8%20%EC%8B%9C%EB%A0%A5%EA%B2%80%EC%82%AC.py)
+   * [[구현] 2751_수 정렬하기 2](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_2751_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)
+   * [[정렬] 10814_나이순 정렬](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_10814_%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC.py)
+ * Sliver4
+   * [[그리디 알고리즘, 정렬] 11399_ATM](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11399_ATM.py)
+   * [[그리디 알고리즘, 정렬, 수학] 10610_30](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_10610_30.py)
+   * [[그리디 알고리즘] 11047_동전 0](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11047_%EB%8F%99%EC%A0%84%200.py)
+ * Sliver3
+   * [[덱, 그리디 알고리즘] 13417_카드 문자열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_13417_%EC%B9%B4%EB%93%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
+   * [[구현, 문자열] 1347_미로만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1347_%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
+ * Sliver2
+   * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
+ * Sliver1
+   * [[DFS, BFS] 2667_단지번호 붙이기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
