@@ -43,6 +43,7 @@
    * [[구현, 재귀] 17478_재귀함수가 뭔가요](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_17478_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%20%EB%AD%94%EA%B0%80%EC%9A%94.py)
    * [[구현] 18242_네모네모 시력검사](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_18242_%EB%84%A4%EB%AA%A8%EB%84%A4%EB%AA%A8%20%EC%8B%9C%EB%A0%A5%EA%B2%80%EC%82%AC.py)
    * [[구현] 2751_수 정렬하기 2](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_2751_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)
+   * [[정렬] 10814_나이순 정렬](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_10814_%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC.py)
  * Sliver4
    * [[그리디 알고리즘, 정렬] 11399_ATM](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11399_ATM.py)
    * [[그리디 알고리즘, 정렬, 수학] 10610_30](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_10610_30.py)
