@@ -1,6 +1,12 @@
 # PythonStudy_CT
 
+[브론즈](#Bronze)
+
 ### 📌 BACKJOON
+
+##### 티어 분류
+# Bronze
+
 * Bronze5
   * [[입출력과 사칙연산, 조건문] 10869_사칙 연산](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5/B5_10869_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.py)
   * [[입출력과 사칙연산, 조건문] 9498_시험 성적](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B5/B5_9498_%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81.py)
