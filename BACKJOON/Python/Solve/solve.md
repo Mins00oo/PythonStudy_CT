@@ -85,3 +85,4 @@
 # Gold 
 * ## Gold5
     * [[DFS, BFS] 10026_적록색약](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py)
+    * [[BFS] 7576_토마토](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_7576_%ED%86%A0%EB%A7%88%ED%86%A0.py)
