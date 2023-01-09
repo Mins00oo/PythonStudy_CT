@@ -40,7 +40,7 @@
    * [[그리디 알고리즘, 정렬, 수학] 10610_30](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_10610_30.py)
    * [[그리디 알고리즘] 11047_동전 0](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11047_%EB%8F%99%EC%A0%84%200.py)
    * [[DFS, BFS] 2331_반복수열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_2331_%EB%B0%98%EB%B3%B5%EC%88%98%EC%97%B4.py)
-   * [[DFS,BFS] 16173_점프왕 젤리_bfs코드 추가 예정](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_16173_%EC%A0%90%ED%94%84%EC%99%95%20%EC%A0%A4%EB%A6%AC.py)
+   * [[DFS,BFS] 16173_점프왕 젤리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_16173_%EC%A0%90%ED%94%84%EC%99%95%20%EC%A0%A4%EB%A6%AC.py)
  * ## Sliver5
    * [[2차원 배열, 정렬] 1181_단어 정렬](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1181_%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)
    * [[2차원 배열, 정렬] 2563_색종이](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_2563_%EC%83%89%EC%A2%85%EC%9D%B4.py)
