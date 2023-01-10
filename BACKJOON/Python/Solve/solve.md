@@ -57,6 +57,7 @@
  * ## Bronze1
    * [[반복문, 1차원 배열] 1110_더하기 사이클](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_1110_%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)
    * [[2차원 배열, 구현] 10798_세로읽기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_10798_%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0.py)
+   * [[정렬] 6996_에너그램](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_6996_%EC%97%90%EB%84%88%EA%B7%B8%EB%9E%A8.py)
  * ## Bronze2
    * [[반복문, 1차원 배열] 8958_OX 퀴즈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_8958_OX%ED%80%B4%EC%A6%88.py)
    * [[2차원 배열, 정렬] 2750_수 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
