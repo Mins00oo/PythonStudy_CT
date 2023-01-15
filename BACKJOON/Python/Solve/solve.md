@@ -60,6 +60,7 @@
    * [[2차원 배열, 구현] 10798_세로읽기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_10798_%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0.py)
    * [[정렬] 6996_에너그램](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_6996_%EC%97%90%EB%84%88%EA%B7%B8%EB%9E%A8.py)
    * [[정렬] 16466_콘서트](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_16466_%EC%BD%98%EC%84%9C%ED%8A%B8.py)
+   * [[정렬] 18766_바꿔치기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B1/B1_18766_%EC%B9%B4%EB%93%9C%20%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0.py)
  * ## Bronze2
    * [[반복문, 1차원 배열] 8958_OX 퀴즈](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_8958_OX%ED%80%B4%EC%A6%88.py)
    * [[2차원 배열, 정렬] 2750_수 정렬하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/B2/B2_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
