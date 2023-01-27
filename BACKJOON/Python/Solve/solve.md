@@ -43,6 +43,7 @@
    * [[DFS, BFS] 2331_반복수열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_2331_%EB%B0%98%EB%B3%B5%EC%88%98%EC%97%B4.py)
    * [[DFS,BFS] 16173_점프왕 젤리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_16173_%EC%A0%90%ED%94%84%EC%99%95%20%EC%A0%A4%EB%A6%AC.py)
    * [[이진 탐색] 2776_암기왕](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_2776_%EC%95%94%EA%B8%B0%EC%99%95.py)
+   * [[다이나믹 프로그래밍] 2839_설탕 배달](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_2839_%EC%84%A4%ED%83%95%20%EB%B0%B0%EB%8B%AC.py)
  * ## Sliver5
    * [[2차원 배열, 정렬] 1181_단어 정렬](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_1181_%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)
    * [[2차원 배열, 정렬] 2563_색종이](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S5/S5_2563_%EC%83%89%EC%A2%85%EC%9D%B4.py)
