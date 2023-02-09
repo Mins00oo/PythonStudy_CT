@@ -28,6 +28,7 @@
    * [[DFS, BFS] 2667_단지번호 붙이기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
    * [[정렬] 1931_회의실 배정](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)
    * [[DP] 11057_오르막 수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11057_%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98.py)
+   * [[DP] 1149_RGB거리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1149_RGB%20%EA%B1%B0%EB%A6%AC.py)
  * ## Sliver2
    * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
    * [[DFS,BFS] 6603_로또](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_6603_%EB%A1%9C%EB%98%90.py)
