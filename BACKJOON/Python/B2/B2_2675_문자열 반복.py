@@ -8,5 +8,5 @@ for _ in range(T):
     a, b = map(str, input().split())  # a는 횟수, b는 문자열
     x = ''
     for i in b:  # for문을 통해 문자열을 하나씩 반복해서 출력하는데 횟수만 a를 정수형으로 변환해서
-        x += int(a) * i  # a만큼 문자열을 반복해서 
+        x += int(a) * i  # a만큼 문자열을 반복해서
     print(x)  # 출력시킨다

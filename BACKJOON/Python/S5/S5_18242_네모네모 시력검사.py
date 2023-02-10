@@ -26,35 +26,31 @@
 # 왼쪽인지 오른쪽인지 구별은 ->
 # 위인지 아래인지 구별은 ->
 
-Y, X = map(int, input().split())  # Y는 행, X는 열
-Ychar = []
-for i in range(Y):
-    Ychar.append(input())
+X, Y = map(int, input().split())  # X는 행, Y는 열
+char = [list(input()) for _ in range(X)]
 
-# print(Ychar)
-for x in range(X):  # x가 7이라면, 0~6까지
-    for y in range(Y - 2):  # 왜 Y-2? -> #이 나온다면 그 y+1에는 #이 없고 y + 2에는 #이 있는지 확인하기 위해 즉, 빈 문자열인지
-        if Ychar[y][x] == "#":
+for y in range(Y):  # x가 7이라면, 0~6까지
+    for x in range(X - 2):  # 왜 Y-2? -> #이 나온다면 그 y+1에는 #이 없고 y + 2에는 #이 있는지 확인하기 위해 즉, 빈 문자열인지
+        if char[x][y] == "#":
             cnt = 0
-            if Ychar[y][x] == Ychar[y + 2][x] and Ychar[y][x] != Ychar[y + 1][x]:  # 현재 위치한 y,x 좌표 옆에 빈 문자열인지
-                for d in range(x + 1, X):  # 다음 열부터 끝까지 # 이 나오는지 비교해보고 있으면 cnt 증가 즉, 왼쪽이라는 뜻
-                    if Ychar[y][d] == "#":
+            if char[x][y] == char[x + 2][y] and char[x][y] != char[x + 1][y]:  # 현재 위치한 y,x 좌표 옆에 빈 문자열인지
+                for d in range(y + 1, Y):  # 다음 열부터 끝까지 # 이 나오는지 비교해보고 있으면 cnt 증가 즉, 왼쪽이라는 뜻
+                    if char[x][d] == "#":
                         cnt += 1
                 if cnt >= 1:
                     print("LEFT")
                 else:
                     print("RIGHT")
 
-for y in range(Y):
-    for x in range(X - 2):
-        if Ychar[y][x] == "#":
+for x in range(X):
+    for y in range(Y - 2):
+        if char[x][y] == "#":
             cnt = 0
-            if Ychar[y][x] == Ychar[y][x + 2] and Ychar[y][x] != Ychar[y][x + 1]:
-                for d in range(y + 1, Y):
-                    if Ychar[d][x] == "#":
+            if char[x][y] == char[x][y + 2] and char[x][y] != char[x][y + 1]:
+                for d in range(x + 1, X):
+                    if char[d][y] == "#":
                         cnt += 1
                 if cnt >= 1:
                     print("UP")
                 else:
                     print("DOWN")
-

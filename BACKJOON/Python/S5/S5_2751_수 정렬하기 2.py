@@ -5,13 +5,11 @@
 
 import sys
 
-input = sys.stdin.readline
-
 n = int(input())
 li = []
 
 for i in range(n):
-    li.append(int(input()))
+    li.append(int(sys.stdin.readline()))
 
 
 def sort(arr):
@@ -26,10 +24,12 @@ def sort(arr):
 
 
 def merge(left, right):
+    print("left:", left)
+    print("right:", right)
     new_list = []
     i = 0
     j = 0
-
+    # print(new_list)
     while (i < len(left)) & (j < len(right)):
         if left[i] > right[j]:
             new_list.append(right[j])
@@ -37,35 +37,18 @@ def merge(left, right):
         else:
             new_list.append(left[i])
             i += 1
+    print(new_list)
+    # print(i)
+    # print(j)
     while j < len(right):
         new_list.append(right[j])
         j += 1
     while i < len(left):
         new_list.append(left[i])
         i += 1
+    # print(new_list)
     return new_list
 
 
 for i in sort(li):
     print(i)
-
-# def merge_sort(arr):
-#     if len(arr) < 2:
-#         return arr
-#
-#     mid = len(arr) // 2
-#     low_arr = merge_sort(arr[:mid])
-#     high_arr = merge_sort(arr[mid:])
-#
-#     merged_arr = []
-#     l = h = 0
-#     while l < len(low_arr) and h < len(high_arr):
-#         if low_arr[l] < high_arr[h]:
-#             merged_arr.append(low_arr[l])
-#             l += 1
-#         else:
-#             merged_arr.append(high_arr[h])
-#             h += 1
-#     merged_arr += low_arr[l:]
-#     merged_arr += high_arr[h:]
-#     return merged_arr

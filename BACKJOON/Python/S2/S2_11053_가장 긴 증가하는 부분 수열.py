@@ -7,4 +7,5 @@ for i in range(n):
         if nums[i] > nums[j] and dp[i] < dp[j]:
             dp[i] = dp[j]
     dp[i] += 1
+# print(dp)
 print(max(dp))

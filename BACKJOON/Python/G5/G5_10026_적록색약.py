@@ -3,7 +3,7 @@ import sys
 n = int(input())  # 길이
 sys.setrecursionlimit(100000)
 
-graph = [list(map(str, input())) for _ in range(n)]  # 색맹 아닌 사람이 볼 좌표평면
+graph = [list(map(str, input())) for _ in range(n)]
 temp_graph = graph  # 색맹인 사람을 위한 좌표평면
 
 not_weak_visited = [[0] * n for _ in range(n)]  # 색맹이 아닌사람
@@ -18,11 +18,12 @@ dy = [0, 0, -1, 1]
 
 def not_weak_dfs(x, y):  # 색맹이 아닌 사람일 경우
     not_weak_visited[x][y] = 1
+
     for d in range(4):
-        nx = x + dx[d]
-        ny = y + dy[d]
-        if 0 <= nx < n and 0 <= ny < n:
-            if not_weak_visited[nx][ny] == 0 and graph[nx][ny] == graph[x][y]:  # 방문하지 않은 노드 + 같은 색인지 확인
+        nx = dx[d] + x
+        ny = dy[d] + y
+        if 0 <= nx < n and 0 <= ny < n:  # 범위를 벗어나지 않고
+            if not_weak_visited[nx][ny] == 0 and graph[x][y] == graph[nx][ny]:
                 not_weak_dfs(nx, ny)
 
 
@@ -53,6 +54,5 @@ for i in range(n):  # 색맹인 사람일 경우, dfs 시작
         if weak_visited[i][j] == 0:
             weak_dfs(i, j)
             weak_cnt += 1
-
 
 print(not_weak_cnt, weak_cnt)

@@ -8,8 +8,6 @@ for i in range(m):
     graph[a].append(b)
     graph[b].append(a)  # 서로 각자 연결되어있기 때문에 양쪽 다 넣어준다 ex) 1노드와 2가 연결되어 있으면 2노드랑 1노드와도 연결
 
-print(graph)
-
 cnt = 0
 visited = [0] * (n + 1)
 

@@ -16,4 +16,3 @@ for i in range(15):  # 열은 0행부터 고정적으로 행이 바뀌면서 반
             continue
         else:
             print(s[j][i], end='')  # 그 외에는 하나씩 붙여서 한줄로 출력ㄴ
-

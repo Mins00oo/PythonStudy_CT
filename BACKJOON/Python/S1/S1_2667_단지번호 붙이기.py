@@ -16,12 +16,17 @@ def dfs(x, y):
         return False
 
     if graph[x][y] == 1:
+        # print("x:", x)
+        # print("y:", y)
+        # print("----")
         global count
         count += 1
         graph[x][y] = 0  # 다시 방문하지 않도록 0으로 변경
         for d in range(4):
             nx = x + dx[d]
             ny = y + dy[d]
+            # print(nx)
+            # print(ny)
             dfs(nx, ny)  # 현재 위치에서 재귀를 이용해 상하좌우로 이동하여 조건문으로 검증
         return True
     return False

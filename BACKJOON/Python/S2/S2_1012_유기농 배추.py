@@ -5,6 +5,8 @@ sys.setrecursionlimit(10000)  # 런타임 에러 방지용
 dx = [1, -1, 0, 0]
 dy = [0, 0, 1, -1]
 
+T = int(input())
+
 
 def dfs(x, y):
     # 상,하,좌,우 확인
@@ -18,7 +20,6 @@ def dfs(x, y):
                 dfs(nx, ny)
 
 
-T = int(input())
 for _ in range(T):
     M, N, K = map(int, input().split())
     matrix = [[0] * M for _ in range(N)]
