@@ -10,6 +10,7 @@ def bfs(st_x, st_y, tar_x, tar_y):
     # a, b, c, d 순서대로 현재 x, y좌표 / 목표 x, y 좌표
     q = deque()
     q.append([st_x, st_y])
+    # 아레에서 방문했는지도 확인을 하기에 1로 두고
     s[st_x][st_y] = 1
     while q:
         a, b = q.popleft()
@@ -33,3 +34,4 @@ for _ in range(t):
     tx, ty = map(int, input().split())
     s = [[0] * i for _ in range(i)]
     bfs(nx, ny, tx, ty)
+
