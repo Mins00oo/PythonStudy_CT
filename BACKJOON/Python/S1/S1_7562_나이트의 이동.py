@@ -11,11 +11,10 @@ def bfs(st_x, st_y, tar_x, tar_y):
     q = deque()
     q.append([st_x, st_y])
     # 아레에서 방문했는지도 확인을 하기에 1로 두고
-    s[st_x][st_y] = 1
     while q:
         a, b = q.popleft()
         if a == tar_x and b == tar_y:
-            print(s[tar_x][tar_y] - 1)
+            print(s[tar_x][tar_y])
             return
         for d in range(8):
             nx = a + dx[d]
@@ -35,3 +34,4 @@ for _ in range(t):
     s = [[0] * i for _ in range(i)]
     bfs(nx, ny, tx, ty)
 
+print(s[0][0])

@@ -34,7 +34,6 @@ def bfs(v):
 for i in range(1, n + 1):
     visited = [0] * (n + 1)
     bfs(i)
-
     # 각각의 방문 횟수를 더해서 res에 추가
     res.append(sum(visited))
 

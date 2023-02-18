@@ -1,26 +1,32 @@
-# 정점의 개수 n
+from collections import deque
+
+# 정점의 개수
 n = int(input())
-# 그래프
-graph = []
-# 좌표 입력받기
-for _ in range(n):
-    graph.append(list(map(int, input().split())))
-visited = [0 * n for _ in range(n)]
 
+# 입력받는 인접 행렬 그래프
+graph = [[] for i in range(n)]
+for i in range(n):
+    graph[i] = list(map(int,input().split()))
 
-def dfs(x):
-    for i in range(n):
-        if graph[x][i] == 1 and visited[i] == 0:
-            visited[i] = 1
-            dfs(i)
+# 출력할 인접 행렬 그래프
+answer = [[0 for i in range(n) ] for i in range(n)]
+def bfs(node):
+    q = deque([node])
+    while q:
+        now = q.popleft()
+        for i in range(n):
+            if graph[now][i] == 1 and visited[i] == 0:
+                visited[i] = 1
+                q.append(i)
+                answer[node][i] = 1
 
-
-for m in range(n):
-    dfs(m)
+            # 정점마다 갈 수 있는 정점 루트 다 돌기
+for i in range(n):
+    visited = [0] * n
+    bfs(i)
     for j in range(n):
-        if visited[j] == 1:
-            print(1, end=' ')
-        else:
-            print(0, end=' ')
+        print(visited[j], end=' ')
     print()
-    visited = [0 for _ in range(n)]
+
+# print(answer) # 백준 문제에서 원하는 출력이 아니어서 "틀렸습니다" 뜸
+
