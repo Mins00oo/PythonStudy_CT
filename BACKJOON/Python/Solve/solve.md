@@ -29,6 +29,9 @@
    * [[정렬] 1931_회의실 배정](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)
    * [[DP] 11057_오르막 수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11057_%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98.py)
    * [[DP] 1149_RGB거리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1149_RGB%20%EA%B1%B0%EB%A6%AC.py)
+   * [[그래프 이론] 1389_케빈 베이컨의 6단계 법칙](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1389_%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)
+   * [[그래프 이론] 11403_경로 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11403_%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)
+   * [[그래프 이론] 7562_나이트의 이동](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_7562_%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)
  * ## Sliver2
    * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
    * [[DFS,BFS] 6603_로또](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_6603_%EB%A1%9C%EB%98%90.py)
@@ -37,6 +40,7 @@
    * [[DP] 11053_가장 긴 증가하는 부분 수열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_11053_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.py)
    * [[DP] 1912_연속합](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1912_%EC%97%B0%EC%86%8D%ED%95%A9.py)
    * [[DP] 15988_1,2,3 더하기 3](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_15988_1%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0%203.py)
+   * [[그래프 이론] 16953_A -> B](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_16953_A-B.py)
  * ## Sliver3
    * [[덱, 그리디 알고리즘] 13417_카드 문자열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_13417_%EC%B9%B4%EB%93%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
    * [[구현, 문자열] 1347_미로만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1347_%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
