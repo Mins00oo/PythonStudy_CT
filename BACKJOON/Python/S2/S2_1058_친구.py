@@ -17,8 +17,11 @@ for k in range(n):
             # 2-친구인 경우
             if graph[i][j] == 'Y' or (graph[i][k] == 'Y' and graph[k][j] == 'Y'):
                 f[i][j] = 1
-result = 0
-for _ in f:
-    result = max(result, sum(_))
 
-print(result)
+
+res = 0
+
+for _ in f:
+    res = max(res, sum(_))
+
+print(res)
