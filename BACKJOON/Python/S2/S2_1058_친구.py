@@ -18,7 +18,6 @@ for k in range(n):
             if graph[i][j] == 'Y' or (graph[i][k] == 'Y' and graph[k][j] == 'Y'):
                 f[i][j] = 1
 
-
 res = 0
 
 for _ in f:
