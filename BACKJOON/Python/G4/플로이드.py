@@ -20,5 +20,10 @@ for k in range(n):
             if graph[a][b] > graph[a][k] + graph[k][b] and a != b:
                 graph[a][b] = graph[a][k] + graph[k][b]
 
-for i in graph:
-    print(*i)
+for i in range(n):
+    for j in range(n):
+        if graph[i][j] == INF:
+            graph[i][j] = 0
+
+for _ in graph:
+    print(*_)
