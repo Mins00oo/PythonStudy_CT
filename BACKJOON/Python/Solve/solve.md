@@ -19,11 +19,15 @@
 
 # Gold 
 * ## Gold4
-    * [[플로이드 와샬 알고리즘] 11404_플로이드](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
+    * [[플로이드 와샬] 11404_플로이드](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
+    * [[다익스트라] 1504_특정한 최단경로](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_1504_%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)
+    * [[다익스트라] 1753_최단경로](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)
+    * [[플로이드 와샬] 2458_키 순서](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_2458_%ED%82%A4%20%EC%88%9C%EC%84%9C.py)
 * ## Gold5
     * [[DFS, BFS] 10026_적록색약](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py)
     * [[BFS] 7576_토마토](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_7576_%ED%86%A0%EB%A7%88%ED%86%A0.py)
     * [[BFS] 2583_영역 구하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2583_%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+    * [[다익스트라] 14284_간선 이어가기 2](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_14284_%EA%B0%84%EC%84%A0%20%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B0%202.py)
 
 # Sliver
  * ## Sliver1
@@ -35,7 +39,8 @@
    * [[그래프 이론] 1389_케빈 베이컨의 6단계 법칙](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1389_%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)
    * [[그래프 이론] 11403_경로 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11403_%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)
    * [[그래프 이론] 7562_나이트의 이동](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_7562_%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)
-   * [[최단경로]]()
+   * [[다익스트라] 1446_지름길](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1446_%EC%A7%80%EB%A6%84%EA%B8%B8.py)
+   * [[플로이드 와샬] 15723_n단 논법](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/n%EB%8B%A8%20%EB%85%BC%EB%B2%95.py)
  * ## Sliver2
    * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
    * [[DFS,BFS] 6603_로또](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_6603_%EB%A1%9C%EB%98%90.py)
