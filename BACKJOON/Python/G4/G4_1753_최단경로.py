@@ -9,7 +9,7 @@ s = int(input())
 # 그래프
 INF = 1000000000
 graph = [[] for _ in range(n + 1)]
-dp = [INF] * (n + 1)
+distance = [INF] * (n + 1)
 
 for _ in range(m):
     u, v, w = map(int, input().split())
@@ -19,25 +19,25 @@ for _ in range(m):
 def dijkstra(start):
     heap = []
     # 시작 정점에 해당하는 곳은 0
-    dp[start] = 0
+    distance[start] = 0
     heapq.heappush(heap, (0, start))
 
     while heap:
         dist, now = heapq.heappop(heap)
 
-        if dp[now] < dist:
+        if distance[now] < dist:
             continue
 
         for i in graph[now]:
-            if dist + i[1] < dp[i[0]]:
-                dp[i[0]] = dist + i[1]
+            if dist + i[1] < distance[i[0]]:
+                distance[i[0]] = dist + i[1]
                 heapq.heappush(heap, (dist + i[1], i[0]))
 
 
 dijkstra(s)
 
 for _ in range(1, n + 1):
-    if dp[_] == 1000000000:
+    if distance[_] == 1000000000:
         print("INF")
     else:
-        print(dp[_])
+        print(distance[_])
