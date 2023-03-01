@@ -20,7 +20,7 @@
 
 # Gold 
 * ## Gold4
-    * [[플로이드 와샬] 11404_플로이드](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
+    * [[플로이드 와샬] 11404_플로이드](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
     * [[다익스트라] 1504_특정한 최단경로](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_1504_%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)
     * [[다익스트라] 1753_최단경로](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)
     * [[플로이드 와샬] 2458_키 순서](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_2458_%ED%82%A4%20%EC%88%9C%EC%84%9C.py)
