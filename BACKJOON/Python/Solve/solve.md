@@ -43,6 +43,7 @@
    * [[플로이드 와샬] 15723_n단 논법](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/n%EB%8B%A8%20%EB%85%BC%EB%B2%95.py)
  * ## Sliver2
    * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
+   * [[플로이드 와샬] 1058_친구](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1058_%EC%B9%9C%EA%B5%AC.py)
    * [[DFS,BFS] 6603_로또](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_6603_%EB%A1%9C%EB%98%90.py)
    * [[DFS, BFS] 1012_유기농 배추](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)
    * [[DFS, BFS] 1260_DFS와 BFS](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1260_DFS%EC%99%80%20BFS.py)
