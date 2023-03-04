@@ -32,8 +32,8 @@
 
 # Sliver
  * ## Sliver1
-    [Dfs
    * [[DFS, BFS] 2667_단지번호 붙이기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
+   * [[DFS, BFS] 2583_영역 구하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2583_%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
    * [[정렬] 1931_회의실 배정](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)
    * [[DP] 11057_오르막 수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11057_%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98.py)
    * [[DP] 1149_RGB거리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1149_RGB%20%EA%B1%B0%EB%A6%AC.py)
@@ -45,7 +45,8 @@
  * ## Sliver2
    * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
    * [[플로이드 와샬] 1058_친구](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1058_%EC%B9%9C%EA%B5%AC.py)
-   * [[DFS,BFS] 6603_로또](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_6603_%EB%A1%9C%EB%98%90.py)
+   * [[DFS, BFS] 6603_로또](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_6603_%EB%A1%9C%EB%98%90.py)
+   * [[DFS, BFS] 11724_연결 요소의 개수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_11724_%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
    * [[DFS, BFS] 1012_유기농 배추](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)
    * [[DFS, BFS] 1260_DFS와 BFS](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1260_DFS%EC%99%80%20BFS.py)
    * [[DP] 11053_가장 긴 증가하는 부분 수열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_11053_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.py)
@@ -56,6 +57,7 @@
    * [[덱, 그리디 알고리즘] 13417_카드 문자열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_13417_%EC%B9%B4%EB%93%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
    * [[구현, 문자열] 1347_미로만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1347_%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
    * [[DP] 1463_1로 만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
+   * [[DFS,BFS] 2606_바이러스](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
  * ## Sliver4
    * [[그리디 알고리즘, 정렬] 11399_ATM](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_11399_ATM.py)
    * [[그리디 알고리즘, 정렬, 수학] 10610_30](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S4/S4_10610_30.py)
