@@ -1,25 +1,47 @@
-n = int(input())  # 컴퓨터의 개수
-m = int(input())  # 쌍의 개수
+# 컴퓨터의 수
+from collections import deque
 
+n = int(input())
+# 쌍의 개수
+m = int(input())
 graph = [[] for _ in range(n + 1)]
+dfs_visited = [0] * (n + 1)
+bfs_visited = [0] * (n + 1)
 
-for i in range(m):
+for _ in range(m):
     a, b = map(int, input().split())
     graph[a].append(b)
-    graph[b].append(a)  # 서로 각자 연결되어있기 때문에 양쪽 다 넣어준다 ex) 1노드와 2가 연결되어 있으면 2노드랑 1노드와도 연결
+    graph[b].append(a)
 
 cnt = 0
-visited = [0] * (n + 1)
 
 
-def dfs(start):
+# def dfs(start):
+#     global cnt
+#     dfs_visited[start] = 1
+#     for i in graph[start]:
+#         if dfs_visited[i] == 0:
+#             cnt += 1
+#             dfs(i)
+#
+#
+# dfs(1)
+# print(cnt)
+
+def bfs(start):
+    q = deque()
+    q.append(start)
+    bfs_visited[start] = 1
     global cnt
-    visited[start] = 1
-    for j in graph[start]:
-        if visited[j] == 0:  # 방문하지 않은 노드라면 
-            cnt += 1
-            dfs(j)  # 반복 재귀
+    while q:
+        d = q.popleft()
+        for i in graph[d]:
+            if bfs_visited[i] == 0:
+                bfs_visited[i] = 1
+                cnt += 1
+                q.append(i)
 
 
-dfs(1)
+bfs(1)
+# print(bfs_visited)
 print(cnt)
