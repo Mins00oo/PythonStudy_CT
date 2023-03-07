@@ -3,6 +3,7 @@ def solution(number, limit, power):
     sum_divisor = []
     for i in range(1, number + 1):
         count = 0
+        # 약수를 구할 때 i의 제곱근까지만 구해주는게 핵심!
         for j in range(1, int(i ** (1 / 2)) + 1):
             if i == 1:
                 count = 1
