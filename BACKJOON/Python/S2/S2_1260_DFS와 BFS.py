@@ -14,33 +14,30 @@ for _ in range(m):
 
 
 def dfs(start):
-    print(start, end=' ')
     dfs_visited[start] = 1
     dfs_result.append(start)
 
-    for i in graph[start]:
+    for i in sorted(graph[start]):
         if dfs_visited[i] == 0:
             dfs(i)
 
 
 def bfs(start):
     bfs_visited[start] = 1
+    bfs_result.append(start)
     q = deque()
     q.append(start)
 
     while q:
         d = q.popleft()
-        print(d, end=' ')
-        bfs_result.append(d)
-        for i in graph[d]:
+        for i in sorted(graph[d]):
             if bfs_visited[i] == 0:
-                q.append(i)
                 bfs_visited[i] = 1
+                bfs_result.append(i)
+                q.append(i)
 
-
-for j in range(1, n + 1):
-    graph[j].sort()
 
 dfs(v)
-print()
+print(*dfs_result)
 bfs(v)
+print(*bfs_result)
