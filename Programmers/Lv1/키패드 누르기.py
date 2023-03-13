@@ -7,9 +7,16 @@ dy = [0, 0, -1, 1]
 # 양손 각각 누를 수 있는 번호 리스트를 만들어 놓는다
 # 번호를 누른다는건 현재 위치에서 그 번호로 이동했다는 것이기 때문에 위치의 이동이 필요함
 # 만약 양손으로 누를 수 있는 번호가 아니라면 상하좌우 이동하여 눌러야하는 번호까지의 최단 경로를 비교하여 짧은 거리가 나오는 곳으로 누른다.
+# 만약 최단거리를 구했는데 양손이 둘 다 똑같으면 어느손 잡이인지에 따라서 누르고 이동한다.
 def solution(numbers, hand):
     answer = ''
-
+    l_list = [1, 4, 7]
+    r_list = [3, 6, 9]
+    for i in numbers:
+        if i in l_list:
+            answer += 'L'
+        elif i in r_list:
+            answer += 'R'
     return answer
 
 
