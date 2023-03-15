@@ -1,6 +1,7 @@
 ### 📌 BACKJOON
 
 [골드](#gold)
+- [골드2]
 - [골드4](#gold4)
 - [골드5](#gold5)
 
@@ -19,6 +20,9 @@
 - [브론즈5](#bronze5)
 
 # Gold 
+* ## Gold2
+    * [[이분탐색] K번째 수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G2/K%EB%B2%88%EC%A7%B8%20%EC%88%98.py)
+
 * ## Gold4
     * [[플로이드 와샬] 11404_플로이드](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
     * [[다익스트라] 1504_특정한 최단경로](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_1504_%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)
@@ -44,6 +48,7 @@
    * [[플로이드 와샬] 15723_n단 논법](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/n%EB%8B%A8%20%EB%85%BC%EB%B2%95.py)
  * ## Sliver2
    * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
+   * [[이분탐색] 랜선 자르기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
    * [[플로이드 와샬] 1058_친구](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1058_%EC%B9%9C%EA%B5%AC.py)
    * [[DFS, BFS] 6603_로또](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_6603_%EB%A1%9C%EB%98%90.py)
    * [[DFS, BFS] 11724_연결 요소의 개수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_11724_%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
