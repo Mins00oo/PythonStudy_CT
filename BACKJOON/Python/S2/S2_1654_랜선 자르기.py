@@ -10,10 +10,15 @@ start, end = 1, max(k_len)
 while start <= end:
     mid = (start + end) // 2
     lines = 0
+    print('----')
+    print('start:', start)
+    print('end:', end)
+    print('mid:', mid)
     for i in k_len:
         lines += i // mid
+    print('lines:', lines)
     # 랜선이 목표 랜선 개수의 이상이면 mid + 1을 시작점으로 두고 반복
-    if lines >= n:
+    if lines < n:
         start = mid + 1
     # 랜선이 목표 랜선 개수보다 적으면 mid - 1을 끝점으로 두고 반복
     else:
