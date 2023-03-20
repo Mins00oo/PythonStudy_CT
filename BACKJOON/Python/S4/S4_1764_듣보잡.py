@@ -1,10 +1,8 @@
 # 듣도 못한 사람 n, 보도 못한 사람 m
 n, m = map(int, input().split())
-n_li = [input().strip() for _ in range(n)]
-m_li = [input().strip() for _ in range(m)]
+n_li = sorted([input().strip() for _ in range(n)])
+m_li = sorted([input().strip() for _ in range(m)])
 result = []
-n_li.sort()
-m_li.sort()
 
 
 def binary(target, start, end):
