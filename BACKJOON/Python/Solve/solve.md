@@ -28,6 +28,7 @@
     * [[다익스트라] 1504_특정한 최단경로](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_1504_%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)
     * [[다익스트라] 1753_최단경로](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)
     * [[플로이드 와샬] 2458_키 순서](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_2458_%ED%82%A4%20%EC%88%9C%EC%84%9C.py)
+    * [[이분탐색] 2110_공유기 설치](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_2110_%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.py)
 * ## Gold5
     * [[DFS, BFS] 10026_적록색약](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py)
     * [[BFS] 7576_토마토](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_7576_%ED%86%A0%EB%A7%88%ED%86%A0.py)
