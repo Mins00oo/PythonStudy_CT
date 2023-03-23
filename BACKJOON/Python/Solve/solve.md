@@ -44,6 +44,7 @@
    * [[정렬] 1931_회의실 배정](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)
    * [[DP] 11057_오르막 수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11057_%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98.py)
    * [[DP] 1149_RGB거리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1149_RGB%20%EA%B1%B0%EB%A6%AC.py)
+   * [[DP] 1932_정수 삼각형](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1932_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py)
    * [[그래프 이론] 1389_케빈 베이컨의 6단계 법칙](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1389_%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)
    * [[그래프 이론] 11403_경로 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11403_%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)
    * [[그래프 이론] 7562_나이트의 이동](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_7562_%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)
