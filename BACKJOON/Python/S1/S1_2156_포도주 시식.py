@@ -5,7 +5,7 @@ wine = []
 for i in range(n):
     wine.append(int(input()))
 
-d = [0]*n
+d = [0 for _ in range(n)]
 
 d[0] = wine[0]
 if n > 1:
