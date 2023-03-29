@@ -3,6 +3,7 @@ t = []
 for i in range(n):
     t.append(list(map(int, input().split())))
 
+# 여기서 k는 반복문을 도는 정수의 개수
 k = 2
 for i in range(1, n):
     for j in range(k):
