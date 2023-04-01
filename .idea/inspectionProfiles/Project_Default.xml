@@ -20,6 +20,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="list.__getitem__" />
+          <option value="list.pop" />
         </list>
       </option>
     </inspection_tool>
