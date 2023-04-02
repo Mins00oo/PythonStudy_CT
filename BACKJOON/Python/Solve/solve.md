@@ -68,7 +68,7 @@
  * ## Sliver3
    * [[덱, 그리디 알고리즘] 13417_카드 문자열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_13417_%EC%B9%B4%EB%93%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
    * [[구현, 문자열] 1347_미로만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1347_%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
-   * [[구현, 큐] 1966_프린트 큐](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1966_%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)
+   * [[구현, 큐] 1966_프린터 큐](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1966_%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)
    * [[DP] 1463_1로 만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
    * [[DFS,BFS] 2606_바이러스](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
    * [[DP] 9461_파도반 수열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_9461_%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.py)
