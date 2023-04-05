@@ -37,6 +37,7 @@ def max_candy():
             if cnt > maxCnt:
                 maxCnt = cnt
 
+
 for i in range(n):
     for j in range(n):
         # 오른쪽하고 변경
