@@ -13,7 +13,6 @@ answer = [0] * n
 for i in range(n):
     cnt = 0
     for j in range(n):
-        print('i:', i, "j:", j, "cnt:", cnt)
         # 왼쪽에 개수만큼 있고 위치할려는 자리가 비어있는지 확인
         if cnt == n_list[i] and answer[j] == 0:
             answer[j] = index_list[i]
