@@ -24,6 +24,7 @@ def clean(x, y, d):
     if graph[x][y] == 0:
         graph[x][y] = 2
         cnt += 1
+    # 4칸을 전부 탐색해보면서 청소할 수 있는지 확인해보고 재귀
     for _ in range(4):
         nd = (d + 3) % 4
         nx = x + dx[nd]
@@ -32,9 +33,11 @@ def clean(x, y, d):
             clean(nx, ny, nd)
             return
         d = nd
+    # 4칸중 청소되지 않은 칸이 없는 경우
     nd = (d + 2) % 4
     nx = x + dx[nd]
     ny = y + dy[nd]
+    # 후진했는데 그 벽도 1이면 종료
     if graph[nx][ny] == 1:
         return
     clean(nx, ny, d)
