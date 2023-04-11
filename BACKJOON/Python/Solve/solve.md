@@ -31,6 +31,7 @@
     * [[플로이드 와샬] 2458_키 순서](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_2458_%ED%82%A4%20%EC%88%9C%EC%84%9C.py)
     * [[이분탐색] 2110_공유기 설치](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_2110_%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.py)
     * [[구현, dfs] 14500_테트로미노](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_14500_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py)
+    * [[구현] 14502_연구소](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G4/G4_14502_%EC%97%B0%EA%B5%AC%EC%86%8C.py)
 
 * ## Gold5
     * [[DFS, BFS] 10026_적록색약](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G5/G5_10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py)
