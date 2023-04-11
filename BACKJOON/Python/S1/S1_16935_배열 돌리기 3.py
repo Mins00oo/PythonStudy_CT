@@ -21,108 +21,89 @@ for _ in range(n):
 solve = list(map(int, input().split()))
 
 
-def solve_1(x):
+def cal_1():
     global graph
-    if x == 1:
-        for i in range(n // 2):
-            graph[i], graph[n - 1 - i] = graph[n - 1 - i], graph[i]
-    elif x == 2:
-        for i in range(n):
-            for j in range(m // 2):
-                graph[i][j], graph[i][m - 1 - j] = graph[i][m - 1 - j], graph[i][j]
-    elif x == 3:
-        temp = [[0 for _ in range(n)] for _ in range(m)]
-        for i in range(m):
-            li = []
-            for j in range(n):
-                li.append(graph[n - 1 - j][i])
-            temp[i] = li
-        graph = temp
-    elif x == 4:
-        if len(graph) == n:
-            temp = [[0 for _ in range(n)] for _ in range(m)]
-            for i in range(m):
-                li = []
-                for j in range(n):
-                    li.append(graph[j][m - i - 1])
-                temp[i] = li
-            graph = temp
-        elif len(graph) == m:
-            temp = [[0 for _ in range(m)] for _ in range(n)]
-            for i in range(n):
-                li = []
-                for j in range(m):
-                    li.append(graph[j][n - i - 1])
-                temp[i] = li
-            graph = temp
-    elif x == 5:
-        # 3, 4 둘 다 거쳤을 때
-        if len(graph) == n:
-            temp = [[0 for _ in range(m)] for _ in range(n)]
-            for i in range(n // 2):
-                for j in range(m // 2):
-                    temp[i][j + m // 2] = graph[i][j]
-            for i in range(n // 2):
-                for j in range(m // 2, m):
-                    temp[i + n // 2][j] = graph[i][j]
-            for i in range(n // 2, n):
-                for j in range(m // 2, m):
-                    temp[i][j - m // 2] = graph[i][j]
-            for i in range(n // 2, n):
-                for j in range(m // 2):
-                    temp[i - n // 2][j] = graph[i][j]
-            graph = temp
-        elif len(graph) == m:
-            temp = [[0 for _ in range(n)] for _ in range(m)]
-            for i in range(m // 2):
-                for j in range(n // 2):
-                    temp[i][j + n // 2] = graph[i][j]
-            for i in range(m // 2):
-                for j in range(n // 2, n):
-                    temp[i + m // 2][j] = graph[i][j]
-            for i in range(m // 2, m):
-                for j in range(n // 2, n):
-                    temp[i][j - n // 2] = graph[i][j]
-            for i in range(m // 2, m):
-                for j in range(n // 2):
-                    temp[i - m // 2][j] = graph[i][j]
-            graph = temp
-    elif x == 6:
-        if len(graph) == n:
-            temp = [[0 for _ in range(m)] for _ in range(n)]
-            for i in range(n // 2):
-                for j in range(m // 2):
-                    # temp[0,1,2][0,1,2,3]
-                    temp[i][j] = graph[i][j + m // 2]
-            for i in range(n // 2):
-                for j in range(m // 2):
-                    temp[i + n // 2][j] = graph[i][j]
-            for i in range(n // 2, n):
-                for j in range(m // 2, m):
-                    temp[i][j] = graph[i][j - m // 2]
-            for i in range(n // 2):
-                for j in range(m // 2, m):
-                    temp[i][j] = graph[i + n // 2][j]
-            graph = temp
-        elif len(graph) == m:
-            temp = [[0 for _ in range(n)] for _ in range(m)]
-            for i in range(m // 2):
-                for j in range(n // 2):
-                    temp[i][j] = graph[i][j + n // 2]
-            for i in range(m // 2):
-                for j in range(n // 2, n):
-                    temp[i][j] = graph[i + m // 2][j]
-            for i in range(m // 2, m):
-                for j in range(n // 2, n):
-                    temp[i][j] = graph[i][j - n // 2]
-            for i in range(m // 2, m):
-                for j in range(n // 2):
-                    temp[i][j] = graph[i - m // 2][j]
-            graph = temp
+    for i in range(n // 2):
+        graph[i], graph[n - 1 - i] = graph[n - 1 - i], graph[i]
 
 
-for i in range(r):
-    solve_1(solve[i])
+def cal_2():
+    global graph
+    for i in range(n):
+        for j in range(m // 2):
+            graph[i][j], graph[i][m - 1 - j] = graph[i][m - 1 - j], graph[i][j]
+
+
+def cal_3():
+    global graph
+    temp = [[0 for _ in range(n)] for _ in range(m)]
+    for i in range(m):
+        for j in range(n):
+            temp[i][j] = graph[n - 1 - j][i]
+    graph = temp
+
+
+def cal_4():
+    global graph
+    temp = [[0 for _ in range(n)] for _ in range(m)]
+    for i in range(m):
+        for j in range(n):
+            temp[i][j] = graph[j][m - i - 1]
+    graph = temp
+
+
+def cal_5():
+    global graph
+    temp = [[0 for _ in range(m)] for _ in range(n)]
+    for i in range(n // 2):
+        for j in range(m // 2):
+            temp[i][j + m // 2] = graph[i][j]
+    for i in range(n // 2):
+        for j in range(m // 2, m):
+            temp[i + n // 2][j] = graph[i][j]
+    for i in range(n // 2, n):
+        for j in range(m // 2, m):
+            temp[i][j - m // 2] = graph[i][j]
+    for i in range(n // 2, n):
+        for j in range(m // 2):
+            temp[i - n // 2][j] = graph[i][j]
+    graph = temp
+
+
+def cal_6():
+    global graph
+    temp = [[0 for _ in range(m)] for _ in range(n)]
+    for i in range(n // 2):
+        for j in range(m // 2):
+            # temp[0,1,2][0,1,2,3]
+            temp[i + n // 2][j] = graph[i][j]
+    for i in range(n // 2, n):
+        for j in range(m // 2):
+            temp[i][j + m // 2] = graph[i][j]
+    for i in range(n // 2, n):
+        for j in range(m // 2, m):
+            temp[i - n // 2][j] = graph[i][j]
+    for i in range(n // 2):
+        for j in range(m // 2, m):
+            temp[i][j - m // 2] = graph[i][j]
+    graph = temp
+
+
+for i in solve:
+    if i == 1:
+        cal_1()
+    elif i == 2:
+        cal_2()
+    elif i == 3:
+        cal_3()
+        n, m = m, n
+    elif i == 4:
+        cal_4()
+        n, m = m, n
+    elif i == 5:
+        cal_5()
+    elif i == 6:
+        cal_6()
 
 for i in range(len(graph)):
     print(*graph[i])
