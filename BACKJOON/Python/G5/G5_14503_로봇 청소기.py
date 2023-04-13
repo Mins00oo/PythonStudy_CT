@@ -6,7 +6,6 @@
 4.1 1이라면 작동을 멈춤
 4.2 1이 아니라면 좌표를 이동하고 좌표값이 0인지 본다.
 4.3 애초에 상하좌우에 0이 하나도 없다는건 후진을 할 수 없다는게 아닌가 ? 그럼 작동 중지
-
 """
 
 n, m = map(int, input().split())
@@ -37,6 +36,7 @@ def clean(x, y, d):
     nd = (d + 2) % 4
     nx = x + dx[nd]
     ny = y + dy[nd]
+    print('nx:', nx, 'ny:', ny)
     # 후진했는데 그 벽도 1이면 종료
     if graph[nx][ny] == 1:
         return

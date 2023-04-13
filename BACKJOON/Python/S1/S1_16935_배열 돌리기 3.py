@@ -75,7 +75,6 @@ def cal_6():
     temp = [[0 for _ in range(m)] for _ in range(n)]
     for i in range(n // 2):
         for j in range(m // 2):
-            # temp[0,1,2][0,1,2,3]
             temp[i + n // 2][j] = graph[i][j]
     for i in range(n // 2, n):
         for j in range(m // 2):
