@@ -45,6 +45,8 @@
  * ## Sliver1
    * [[DFS, BFS] 2667_단지번호 붙이기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
    * [[DFS, BFS] 2583_영역 구하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2583_%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+   * [[DFS, BFS] 3187_양치기 꿍](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_3187_%EC%96%91%EC%B9%98%EA%B8%B0%20%EA%BF%8D.py)
+   * [[DFS, BFS] 12761_돌다리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_12761_%EB%8F%8C%EB%8B%A4%EB%A6%AC.py)
    * [[정렬] 1931_회의실 배정](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)
    * [[DP] 11057_오르막 수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_11057_%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98.py)
    * [[DP] 2156_포도주 시식](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.py)
@@ -77,7 +79,8 @@
    * [[구현, 문자열] 1347_미로만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1347_%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
    * [[구현, 큐] 1966_프린터 큐](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1966_%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)
    * [[DP] 1463_1로 만들기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
-   * [[DFS,BFS] 2606_바이러스](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
+   * [[DFS, BFS] 2606_바이러스](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
+   * [[DFS, BFS] 10451_순열 사이클](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_10451_%EC%88%9C%EC%97%B4%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)
    * [[DP] 9461_파도반 수열](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_9461_%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.py)
    * [[이진탐색] 2512_예산](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S3/S3_2512_%EC%98%88%EC%82%B0.py)
  * ## Sliver4
