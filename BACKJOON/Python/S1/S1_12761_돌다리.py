@@ -19,9 +19,9 @@ def solution(start):
             if 0 <= i <= 100000 and graph[i] == -1:
                 q.append(i)
                 graph[i] = graph[l] + 1
-            if i == m:
-                print(graph[m])
-                exit()
+                if i == m:
+                    print(graph[m])
+                    exit()
 
 
 a, b, n, m = map(int, input().split())
