@@ -3,7 +3,7 @@ def solution():
     if len(answer) == m:
         print(*answer)
         return
-    for i in range(0, n):
+    for i in range(n):
         if check != num[i] and visited[i] == 0:
             answer.append(num[i])
             visited[i] = 1
