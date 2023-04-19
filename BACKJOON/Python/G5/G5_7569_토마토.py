@@ -11,36 +11,35 @@ from collections import deque
 
 
 def solution():
-    queue = deque()
+    global cnt
+    q = deque()
     for i in range(h):
         for j in range(n):
             for k in range(m):
-                # 익은 토마토가 있는 좌표라면
                 if graph[i][j][k] == 1:
-                    queue.append([i, j, k, 0])
-    min_day = 0
-    while queue:
-        x, y, z, day = queue.popleft()
+                    q.append([i, j, k, 0])
+
+    while q:
+        x, y, z, day = q.popleft()
         for dx, dy, dz in direction:
             nx = x + dx
             ny = y + dy
             nz = z + dz
             if 0 <= nx < h and 0 <= ny < n and 0 <= nz < m and graph[nx][ny][nz] == 0:
                 graph[nx][ny][nz] = 1
-                queue.append([nx, ny, nz, day + 1])
-                min_day = day + 1
+                cnt = day + 1
+                q.append([nx, ny, nz, day + 1])
 
     for i in range(h):
         for j in range(n):
             for k in range(m):
-                # 익은 토마토가 있는 좌표라면
                 if graph[i][j][k] == 0:
                     return -1
-
-    return min_day
+    return cnt
 
 
 m, n, h = map(int, input().split())
 graph = [[list(map(int, input().split())) for _ in range(n)] for _ in range(h)]
-direction = [(1, 0, 0), (-1, 0, 0), (0, 0, -1), (0, 0, 1), (0, -1, 0), (0, 1, 0)]
+direction = [(1, 0, 0), (-1, 0, 0), (0, -1, 0), (0, 1, 0), (0, 0, -1), (0, 0, 1)]
+cnt = 0
 print(solution())
