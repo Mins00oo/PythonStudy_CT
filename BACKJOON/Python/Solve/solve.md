@@ -45,6 +45,7 @@
 # Sliver
  * ## Sliver1
    * [[DFS, BFS] 2667_단지번호 붙이기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
+   * [[DFS, BFS] 1743_음식물 피하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_1743_%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.py)
    * [[DFS, BFS] 2583_영역 구하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_2583_%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
    * [[DFS, BFS] 3187_양치기 꿍](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_3187_%EC%96%91%EC%B9%98%EA%B8%B0%20%EA%BF%8D.py)
    * [[DFS, BFS] 12761_돌다리](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_12761_%EB%8F%8C%EB%8B%A4%EB%A6%AC.py)
