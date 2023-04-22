@@ -64,6 +64,7 @@
    * [[구현] 16935_배열 돌리기3](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S1/S1_16935_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%203.py)
  * ## Sliver2
    * [[DFS, BFS] 18352_특정 거리의 도시 찾기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_18352_%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
+   * [[DFS, BFS] 17086_아기 상어2](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_17086_%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4%202.py)
    * [[이분탐색] 랜선 자르기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
    * [[구현] 3085_사탕 게임](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_3085_%EC%82%AC%ED%83%95%20%EA%B2%8C%EC%9E%84.py)
    * [[구현] 1138_한 줄로 서기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/S2/S2_1138_%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0.py)
