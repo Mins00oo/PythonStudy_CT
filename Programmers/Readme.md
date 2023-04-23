@@ -4,6 +4,7 @@
 
 # Lv1 
   * [삼총사](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EC%82%BC%EC%B4%9D%EC%82%AC.py)
+  * [추억 점수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.py)
   * [기사단원의 무기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.py)
   * [명예의 전당](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9.py)
   * [숫자 짝꿍](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.py)
