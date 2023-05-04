@@ -5,3 +5,10 @@
 4. 레벨 2 -> B  ~  P  ~ B
 """
 n, x = map(int, input().split())
+
+
+def eat(n, x):
+    if n == 0:
+        return x
+    if x == 1:
+        return 0
