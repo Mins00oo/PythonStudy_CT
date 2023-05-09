@@ -1,6 +1,7 @@
 ### 📌 BACKJOON
 
 [골드](#gold)
+- [골드1](#gold1)
 - [골드2](#gold2)
 - [골드3](#gold3)
 - [골드4](#gold4)
@@ -21,6 +22,9 @@
 - [브론즈5](#bronze5)
 
 # Gold 
+
+* ## Gold1
+
 * ## Gold2
     * [[이분탐색] 1300_K번째 수](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G2/K%EB%B2%88%EC%A7%B8%20%EC%88%98.py)
     * [[이분탐색] 18240_이진탐색 트리 복원하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/BACKJOON/Python/G2/G2_18240_%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0.py)
