@@ -3,7 +3,6 @@
 2. 함수 정의
 
 """
-def solution_sort():
 
 n, k = map(int, input().split())
 arr = list(map(int, input().split()))
