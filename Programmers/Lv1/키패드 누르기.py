@@ -1,23 +1,41 @@
-dx = [-1, 1, 0, 0]
-dy = [0, 0, -1, 1]
-
-
-# 눌러야하는 번호가 1,4,7이라면 L을 추가한다
-# 반대로 3. 6. 9라면 R을 추가한다
-# 양손 각각 누를 수 있는 번호 리스트를 만들어 놓는다
-# 번호를 누른다는건 현재 위치에서 그 번호로 이동했다는 것이기 때문에 위치의 이동이 필요함
-# 만약 양손으로 누를 수 있는 번호가 아니라면 상하좌우 이동하여 눌러야하는 번호까지의 최단 경로를 비교하여 짧은 거리가 나오는 곳으로 누른다.
-# 만약 최단거리를 구했는데 양손이 둘 다 똑같으면 어느손 잡이인지에 따라서 누르고 이동한다.
 def solution(numbers, hand):
     answer = ''
+    dic = {1: [0, 0], 2: [0, 1], 3: [0, 2],
+           4: [1, 0], 5: [1, 1], 6: [1, 2],
+           7: [2, 0], 8: [2, 1], 9: [2, 2],
+           '*': [3, 0], 0: [3, 1], '#': [3, 2]}
     l_list = [1, 4, 7]
+    left_start = dic['*']
+    right_start = dic['#']
     r_list = [3, 6, 9]
     for i in numbers:
+        now = dic[i]
         if i in l_list:
             answer += 'L'
+            left_start = now
         elif i in r_list:
             answer += 'R'
+            right_start = now
+        else:
+            left_d = 0
+            right_d = 0
+            for a, b, c in zip(left_start, right_start, now):
+                left_d += abs(a - c)
+                right_d += abs(b - c)
+            if left_d < right_d:
+                answer += "L"
+                left_start = now
+            elif left_d > right_d:
+                answer += "R"
+                right_start = now
+            else:
+                if hand == "left":
+                    answer += "L"
+                    left_start = now
+                else:
+                    answer += "R"
+                    right_start = now
     return answer
 
 
-solution([1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5], "right")
+print(solution([7, 0, 8, 2, 8, 3, 1, 5, 7, 6, 2], "left"))
