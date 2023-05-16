@@ -9,6 +9,7 @@ def solution(numbers, hand):
     right_start = dic['#']
     r_list = [3, 6, 9]
     for i in numbers:
+        # now는 눌러야 하는 번호의 좌표값
         now = dic[i]
         if i in l_list:
             answer += 'L'
