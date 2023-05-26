@@ -1,3 +1,8 @@
+"""수도코드
+1.
+"""
+
+
 def solution(ingredient):
     answer = 0
     return answer
