@@ -18,6 +18,7 @@
   * [푸드 파이트 대회](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.py)
   * [명예의 전당](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9.py)
   * [성격 유형 검사하기](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.py)
+  * [개인정보 수집 유효기간](https://github.com/Mins00oo/PythonStudy_CT/blob/main/Programmers/Lv1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.py)
 
 # Lv2
 
